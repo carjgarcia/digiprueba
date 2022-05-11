@@ -1,0 +1,18 @@
+/*Comando de git*/
+
+git init
+git status *Estado de proyecto*
+git add *nombre archivo o todos(.)*
+git commit -m "Desfripcion del nuevo cambio"
+
+
+//
+git push -u origin master
+git push
+
+git pull
+git log *Ver los commit creados*
+git log --oneline *Ver los commit creados en una linea*
+git checkout <el commit o la rama>
+git remote " link repositorio"
+git clone "link repositorio" 
